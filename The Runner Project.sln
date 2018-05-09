@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FCCB9694-6AB4-5EC7-592B-92E44C605F2B}") = "The Runner Project", "Assembly-UnityScript.unityproj", "{8B70323D-0518-F500-4AB8-88700296A668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Runner Project", "Assembly-CSharp.csproj", "{AE550054-71A3-657C-8039-DF91FCC03335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B70323D-0518-F500-4AB8-88700296A668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B70323D-0518-F500-4AB8-88700296A668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B70323D-0518-F500-4AB8-88700296A668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B70323D-0518-F500-4AB8-88700296A668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE550054-71A3-657C-8039-DF91FCC03335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE550054-71A3-657C-8039-DF91FCC03335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE550054-71A3-657C-8039-DF91FCC03335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE550054-71A3-657C-8039-DF91FCC03335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

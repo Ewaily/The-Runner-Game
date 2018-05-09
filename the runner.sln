@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{32A63192-5A9B-028D-C160-AE4B19878107}") = "The Runner", "Assembly-UnityScript.unityproj", "{DB94D151-76B9-9A5F-FC86-EA6F28BC8C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Runner", "Assembly-CSharp.csproj", "{8B7D529A-E003-AF3F-9545-83C83F0CF255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB94D151-76B9-9A5F-FC86-EA6F28BC8C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB94D151-76B9-9A5F-FC86-EA6F28BC8C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB94D151-76B9-9A5F-FC86-EA6F28BC8C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB94D151-76B9-9A5F-FC86-EA6F28BC8C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7D529A-E003-AF3F-9545-83C83F0CF255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7D529A-E003-AF3F-9545-83C83F0CF255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7D529A-E003-AF3F-9545-83C83F0CF255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7D529A-E003-AF3F-9545-83C83F0CF255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
